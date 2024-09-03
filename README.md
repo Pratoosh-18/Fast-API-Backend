@@ -67,8 +67,10 @@ Follow these steps to set up the project on your local machine:
     ```
 
 4. Install the required dependencies:
-    ```
     Install the required dependencies:
+
+    ```
+    pip install -r requirements.txt
     ```
 
 5. Set up environment variables:
